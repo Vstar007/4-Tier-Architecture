@@ -2,6 +2,7 @@
 
 ## STEP 1: Create The Base Networking Infrastructure For NAT/ELB, Webservers, Appservers and Database
 ### A) Create The VPC Network
+Select VPC and More, and uncheck auto-generate
 - Name: `Prod-VPC`
 - CidirBlock: `10.0.0.0/16`
 
